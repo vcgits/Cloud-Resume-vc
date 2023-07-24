@@ -1,0 +1,4 @@
+from ubutnu
+copy .
+docker build -t vccv
+docker run -t vccv
